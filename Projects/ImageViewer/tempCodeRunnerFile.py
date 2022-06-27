@@ -1,0 +1,1 @@
+imgHolder.grid_forget()
